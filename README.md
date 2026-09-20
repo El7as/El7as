@@ -19,7 +19,7 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 | Projekt | Beschreibung | Technologien |
 |----------|---------------|--------------|
 | 🎬 **Videoflix** | Business‑Webanwendung nach dem Vorbild von Netflix mit Benutzerverwaltung, Authentifizierung und Videomanagement. | Python · Django · DRF ·  |
-| 💼 [**Coderr**](https://coderrfrontend.onrender.com/index.html) | Freelancer-Entwickler Plattform zum finden professionelle IT-Talente für dein Unternehmen| Python · Django · KI APIs |
+| 💼 [**Coderr**](https://coderrfrontend.onrender.com/index.html) | Freelancer-Entwickler Plattform zum finden professionelle IT-Talente für dein Unternehmen| Python · Django · DRF · |
 | 🧠 **Quizzly** | KI‑gestützte Anwendung, die aus Videotranskripten automatisch Quizfragen und Lerninhalte erstellt. | Python · Django · KI APIs |
 | 📋 **KanMind** | Kanban‑Board zur Organisation von Projekten, Aufgaben und Workflows mit REST‑API. | Python · Django · DRF ·|
 
