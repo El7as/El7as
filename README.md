@@ -1,9 +1,9 @@
 ## Über mich 🙋‍♂️
-
 Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel Backend‑Systeme in Python, Django und Django REST Framework.
 
-## Stack 🛠️ 
+---
 
+## Stack 🛠️ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -14,7 +14,6 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 ---
 
 ## Backend Projekte 💻
-
 | Projekt | Beschreibung | Technologien |
 |----------|---------------|--------------|
 | 🎬 **Videoflix** | Business‑Webanwendung nach dem Vorbild von Netflix mit Benutzerverwaltung, Authentifizierung und Videomanagement. | Python · Django · DRF ·  |
@@ -22,10 +21,12 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 | 🧠 **Quizzly** | KI‑gestützte Anwendung, die aus Videotranskripten automatisch Quizfragen und Lerninhalte erstellt. | Python · Django · KI APIs |
 | 📋 **KanMind** | Kanban‑Board zur Organisation von Projekten, Aufgaben und Workflows mit REST‑API. | Python · Django · DRF ·|
 
+---
 
+## Website 🌐 
+https://coderrfrontend.onrender.com/index.html
 
-
-
+---
 
 
 
