@@ -1,4 +1,8 @@
-## Hi there 👋
+## Über mich 👋
+
+Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel Backend‑Systeme in Python, Django und Django REST Framework.
+
+
 
 <!--
 **El7as/El7as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
