@@ -26,12 +26,6 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 
 ---
 
-### 🧠 Architektur-Fokus
-Python → Django → DRF → PostgreSQL  
-Docker → GitHub → CI/CD (in Planung)
-
-
-
 
 
 
