@@ -3,6 +3,11 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 
 ---
 
+## Website 🌐 
+https://coderrfrontend.onrender.com/index.html
+
+---
+
 ## Stack 🛠️ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -21,10 +26,6 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 | 🧠 **Quizzly** | KI‑gestützte Anwendung, die aus Videotranskripten automatisch Quizfragen und Lerninhalte erstellt. | Python · Django · KI APIs |
 | 📋 **KanMind** | Kanban‑Board zur Organisation von Projekten, Aufgaben und Workflows mit REST‑API. | Python · Django · DRF ·|
 
----
-
-## Website 🌐 
-https://coderrfrontend.onrender.com/index.html
 
 ---
 
