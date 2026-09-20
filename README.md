@@ -1,4 +1,4 @@
-## Über mich 👋
+## Über mich 🙋‍♂️
 
 Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel Backend‑Systeme in Python, Django und Django REST Framework.
 
