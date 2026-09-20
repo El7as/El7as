@@ -13,7 +13,7 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 
 ---
 
-## 🌐 Backend Projekte
+## Backend Projekte 💻
 
 | Projekt | Beschreibung | Technologien |
 |----------|---------------|--------------|
