@@ -15,7 +15,13 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 
 ---
 
-## 💻 Backend Projekte 
+## Backend Projekte 
+
+#  meine 
+
+
+
+# 💻 Developer Akademie
 | Projekt | Beschreibung | Technologien |
 |----------|---------------|--------------|
 | 🎬 **Videoflix** | Business‑Webanwendung nach dem Vorbild von Netflix mit Benutzerverwaltung, Authentifizierung und Videomanagement. | Python · Django · DRF · Docker |
