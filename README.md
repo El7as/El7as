@@ -18,7 +18,7 @@ Ich bringe Erfahrung aus der öffentlichen Verwaltung mit und entwickle parallel
 ## 💻 Backend Projekte 
 
 #  Meiner Einer 
-| \  **Lagerfit** | Fitnissapp | Python · Django · DRF ·|
+\ |   **Lagerfit** | Fitnissapp | Python · Django · DRF ·|
 
 
 #  Developer Akademie
